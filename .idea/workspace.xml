@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ed7002-e00f-42a3-b301-9c26605408d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Nr1425ConstrainedSubsequenceSum.kt" afterDir="false" />
+    <list default="true" id="62ed7002-e00f-42a3-b301-9c26605408d2" name="Changes" comment="leetcode">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Nr0020ValidParentheses.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Nr1793MaximumScoreOfAGoodSubarray.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Nr1425ConstrainedSubsequenceSumTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Nr0020ValidParenthesesTest.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/kotlin/Nr1793MaximumScoreOfAGoodSubarrayTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +40,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
         <option value="JUnit5 Test Class" />
       </list>
     </option>
@@ -91,7 +86,31 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Nr1425ConstrainedSubsequenceSumTest.constrainedSubsetSum">
+  <component name="RunManager" selected="Gradle.Nr0020ValidParenthesesTest.isValid">
+    <configuration name="Nr0020ValidParenthesesTest.isValid" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Nr0020ValidParenthesesTest.isValid&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="Nr1425ConstrainedSubsequenceSumTest.constrainedSubsetSum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -149,6 +168,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Nr0020ValidParenthesesTest.isValid" />
         <item itemvalue="Gradle.Nr1425ConstrainedSubsequenceSumTest.constrainedSubsetSum" />
         <item itemvalue="Gradle.Nr2050ParallelCoursesIIITest.minimumTime" />
         <item itemvalue="Kotlin.MainKt" />
@@ -164,12 +184,25 @@
       <option name="presentableId" value="Default" />
       <updated>1697656307904</updated>
       <workItem from="1697656309010" duration="3433000" />
-      <workItem from="1697995150762" duration="2722000" />
+      <workItem from="1697995150762" duration="3909000" />
     </task>
+    <task id="LOCAL-00001" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1697997975033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697997975033</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -182,6 +215,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Nr0020ValidParentheses.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
